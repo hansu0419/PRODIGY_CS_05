@@ -30,7 +30,7 @@ $ pip install scapy
 ### Running the Script
 To execute the script and start capturing network packets, run:
 ```bash
-$ python packet_analyzer.py
+$ python app.py
 ```
 
 The script will begin capturing IP packets and print details about each packet's source and destination addresses, protocol, and payload to the console.
