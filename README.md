@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bec3bfd0-3001-4559-aad6-45b8d598d760" alt="PRODIGY_CS_05_networkpacketanalyzer" />
 </p>
+
 ## Description
 The Network Packet Analyzer is a Python script that utilizes the Scapy library to capture and analyze network packets in real-time. This tool allows users to monitor IP traffic, view source and destination addresses, and inspect packet payloads. It provides an efficient way to inspect network communications and understand the data being transmitted.
 
